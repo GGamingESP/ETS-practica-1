@@ -28,4 +28,8 @@ void draw() {
   if (numero % 69 == 0 ) {
     text("uwu",0,0,800,1300);
   }
+  
+    if (numero % 100 == 0 ) {
+    text("nose",0,0,800,1300);
+  }
 } ;
