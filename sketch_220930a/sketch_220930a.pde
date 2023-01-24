@@ -5,7 +5,7 @@ void setup() {
   size(800, 800, P3D);
   frameRate(3);
 }
-  int numero = 1 ;
+  int numero = 0 ;
 void draw() {
 
   numero = numero + 1 ;
